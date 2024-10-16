@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303125266666",
+    "project_id": "cars-68096",
+    "storage_bucket": "cars-68096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303125266666:android:545c9c2613a784ae859793",
+        "android_client_info": {
+          "package_name": "com.steradiantest.car"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC11wuzpnRAmrSEKRTz0iU9zq9MVd5TIU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
